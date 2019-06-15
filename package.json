@@ -1,0 +1,14 @@
+{
+  "name": "test_webpack_4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4",
+    "webpack-cli": "^3.3.4"
+  },
+  "dependencies": {
+    "datatables.net": "^1.10.19",
+    "jquery": "^3.4.1"
+  }
+}
